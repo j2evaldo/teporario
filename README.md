@@ -1,0 +1,2 @@
+# teporario
+Ideias para projetos
